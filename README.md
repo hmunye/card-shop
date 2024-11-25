@@ -46,7 +46,7 @@ npm run dev
 Navigate to the server directory and install PHP dependencies:
 
 ```bash
-cd card-shop/server
+cd ../server
 ```
 
 Install the dependencies using Composer:
