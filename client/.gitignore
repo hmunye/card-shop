@@ -1,0 +1,26 @@
+# dependencies
+/node_modules
+
+# logs
+logs
+*.log
+npm-debug.log*
+
+# output
+dist
+dist-ssr
+*.local
+
+# misc
+.DS_Store
+Thumbs.db
+
+# env
+.env
+.env.*
+!.env.development
+!.env.test
+
+# vite
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
